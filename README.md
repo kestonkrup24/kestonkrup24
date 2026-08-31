@@ -1,5 +1,9 @@
 ## Hey Everyone 👋
-flnsvlfljv
+😄I'm Keston a hardworking college student whose trying to get there Networking and Cybersecurity Degree.😄
+- 🌱 I’m currently learning every coding language I can
+- 🔭 I’m currently working on getting through college
+- 💬 I'm apart of the Career Scholars Program
+- 🤔 I'm open to learn everything and anything
 <!--
 **kestonkrup24/kestonkrup24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
